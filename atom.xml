@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidarikako.github.io/</id>
     <title></title>
-    <updated>2020-03-02T05:04:48.728Z</updated>
+    <updated>2020-03-02T06:10:03.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aidarikako.github.io/"/>
     <link rel="self" href="https://aidarikako.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://aidarikako.github.io/images/avatar.png</logo>
     <icon>https://aidarikako.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, </rights>
+    <entry>
+        <title type="html"><![CDATA[模式识别课程主页（2020年春）]]></title>
+        <id>https://aidarikako.github.io/post/mo-shi-shi-bie-ke-cheng-zhu-ye-2020-nian-chun/</id>
+        <link href="https://aidarikako.github.io/post/mo-shi-shi-bie-ke-cheng-zhu-ye-2020-nian-chun/">
+        </link>
+        <updated>2020-03-02T05:09:34.000Z</updated>
+        <content type="html"><![CDATA[<p><font face='黑体' size=5><strong>更新</strong></font>：</p>
+<p><font face='黑体' size=5><strong>课程信息</strong></font>：</p>
+]]></content>
+    </entry>
 </feed>
