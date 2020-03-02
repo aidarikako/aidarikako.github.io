@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidarikako.github.io/</id>
     <title></title>
-    <updated>2020-03-02T07:09:59.616Z</updated>
+    <updated>2020-03-02T08:28:20.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aidarikako.github.io/"/>
     <link rel="self" href="https://aidarikako.github.io/atom.xml"/>
@@ -16,9 +16,92 @@
         <link href="https://aidarikako.github.io/post/mo-shi-shi-bie-ke-cheng-zhu-ye-2020-nian-chun/">
         </link>
         <updated>2020-03-02T05:09:34.000Z</updated>
-        <content type="html"><![CDATA[<p><font face='黑体' size=5><strong>更新</strong></font>：</p>
-<p><font face='黑体' size=5><strong>课程信息</strong></font>：<br>
-第一章<a href="https://aidarikako.github.io/pr/chap1.pdf">下载</a></p>
+        <content type="html"><![CDATA[<ul>
+<li>
+<p><a href="#%E6%9B%B4%E6%96%B0">更新</a></p>
+</li>
+<li>
+<p><a href="#%E8%AF%BE%E7%A8%8B%E4%BF%A1%E6%81%AF">课程信息</a></p>
+</li>
+<li>
+<p><a href="#%E5%8F%82%E8%80%83%E4%B9%A6%E7%9B%AE">参考书目</a></p>
+</li>
+<li>
+<p><a href="#%E8%AF%BE%E4%BB%B6%E5%92%8C%E4%BD%9C%E4%B8%9A">课件和作业</a></p>
+</li>
+<li>
+<p><a href="#%E4%BD%9C%E4%B8%9A%E6%83%85%E5%86%B5">作业情况</a></p>
+</li>
+<li>
+<p><a href="#%E8%80%83%E8%AF%95%E4%BF%A1%E6%81%AF">考试信息</a></p>
+</li>
+</ul>
+<br />
+<br />
+<h2 id="更新"><strong>更新</strong>：</h2>
+<p>2020.3.2 ---- 上传第一章课件</p>
+<br />
+<br />
+<h2 id="课程信息"><strong>课程信息</strong>：</h2>
+<table>
+<thead>
+<tr>
+<th>授课老师: <a href="https://auto.ustc.edu.cn/teacher_details.php?i=32">汪增福</a></th>
+<th><a href="mailto:zfwang@ustc.edu.cn">zfwang@ustc.edu.cn</a></th>
+<th>科技实验楼西楼412</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>课程助教: 陈纪伟</td>
+<td><a href="mailto:cjwbdw6@mail.ustc.edu.cn">cjwbdw6@mail.ustc.edu.cn</a></td>
+<td>科技实验楼西楼316</td>
+</tr>
+<tr>
+<td>课程助教: 向琳华</td>
+<td><a href="mailto:xlh1995@mail.ustc.edu.cn">xlh1995@mail.ustc.edu.cn</a></td>
+<td>科技实验楼西楼316</td>
+</tr>
+<tr>
+<td>上课时间: 周二(3,4,5)、周五(8,9,10)</td>
+<td>上课教室：网上授课</td>
+<td>课程学分: 3.5学分</td>
+</tr>
+</tbody>
+</table>
+<br />
+<br />
+<h2 id="参考书目"><strong>参考书目</strong>：</h2>
+<p><a href="https://item.jd.com/10339634.html">《模式识别》</a></p>
+<br />
+<br />
+<h2 id="课件和作业"><strong>课件和作业</strong>：</h2>
+<table>
+<thead>
+<tr>
+<th><strong>课件</strong></th>
+<th><strong>作业</strong></th>
+<th><strong>截止时间</strong></th>
+<th><strong>答案</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://aidarikako.github.io/pr/chap1.pdf">第1章-绪论</a></td>
+<td>无</td>
+<td>无</td>
+<td>无</td>
+</tr>
+</tbody>
+</table>
+<br />
+<br />
+<h2 id="作业情况"><strong>作业情况</strong>：</h2>
+<br />
+<br />
+<h2 id="考试信息"><strong>考试信息</strong>：</h2>
+<br />
+<br />
 ]]></content>
     </entry>
 </feed>
