@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidarikako.github.io/</id>
     <title></title>
-    <updated>2020-03-02T08:32:12.873Z</updated>
+    <updated>2020-03-03T02:17:25.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aidarikako.github.io/"/>
     <link rel="self" href="https://aidarikako.github.io/atom.xml"/>
@@ -46,26 +46,26 @@
 <table>
 <thead>
 <tr>
-<th>授课老师: <a href="https://auto.ustc.edu.cn/teacher_details.php?i=32">汪增福</a></th>
-<th><a href="mailto:zfwang@ustc.edu.cn">zfwang@ustc.edu.cn</a></th>
-<th>科技实验楼西楼412</th>
+<th style="text-align:center">授课老师: <a href="https://auto.ustc.edu.cn/teacher_details.php?i=32">汪增福</a></th>
+<th style="text-align:center"><a href="mailto:zfwang@ustc.edu.cn">zfwang@ustc.edu.cn</a></th>
+<th style="text-align:center">科技实验楼西楼412</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>课程助教: 陈纪伟</td>
-<td><a href="mailto:cjwbdw6@mail.ustc.edu.cn">cjwbdw6@mail.ustc.edu.cn</a></td>
-<td>科技实验楼西楼316</td>
+<td style="text-align:center">课程助教: 陈纪伟</td>
+<td style="text-align:center"><a href="mailto:cjwbdw6@mail.ustc.edu.cn">cjwbdw6@mail.ustc.edu.cn</a></td>
+<td style="text-align:center">科技实验楼西楼316</td>
 </tr>
 <tr>
-<td>课程助教: 向琳华</td>
-<td><a href="mailto:xlh1995@mail.ustc.edu.cn">xlh1995@mail.ustc.edu.cn</a></td>
-<td>科技实验楼西楼316</td>
+<td style="text-align:center">课程助教: 向琳华</td>
+<td style="text-align:center"><a href="mailto:xlh1995@mail.ustc.edu.cn">xlh1995@mail.ustc.edu.cn</a></td>
+<td style="text-align:center">科技实验楼西楼316</td>
 </tr>
 <tr>
-<td>上课时间: 周二(3,4,5)、周五(8,9,10)</td>
-<td>上课教室：网上授课</td>
-<td>课程学分: 3.5学分</td>
+<td style="text-align:center">上课时间: 周二(3,4,5)、周五(8,9,10)</td>
+<td style="text-align:center">上课教室：网上授课</td>
+<td style="text-align:center">课程学分: 3.5学分</td>
 </tr>
 </tbody>
 </table>
