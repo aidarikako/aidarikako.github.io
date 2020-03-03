@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aidarikako.github.io/</id>
     <title></title>
-    <updated>2020-03-03T04:44:20.225Z</updated>
+    <updated>2020-03-03T04:51:40.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aidarikako.github.io/"/>
     <link rel="self" href="https://aidarikako.github.io/atom.xml"/>
@@ -39,7 +39,7 @@
 <br />
 <br />
 <h2 id="更新"><strong>更新</strong>：</h2>
-<p>2020.3.2 ---- 上传第一章课件</p>
+<p>2020.3.3 ---- 上传第一章课件，更新课程相关信息</p>
 <br />
 <br />
 <h2 id="课程信息"><strong>课程信息</strong>：</h2>
@@ -69,9 +69,10 @@
 </tr>
 </tbody>
 </table>
-<p><a href="https://www.eeo.cn/live.php?lessonKey=fa30827b5b75afbb"><font color=red size=3>网课地址 </font></a><br>
-<br /><br>
-<br /></p>
+<p><a href="https://www.eeo.cn/live.php?lessonKey=fa30827b5b75afbb"><font color=red size=3>网课地址 </font></a></p>
+<figure data-type="image" tabindex="1"><img src="https://aidarikako.github.io//post-images/1583210971247.PNG" alt="" loading="lazy"></figure>
+<br />
+<br />
 <h2 id="参考书目"><strong>参考书目</strong>：</h2>
 <p><a href="https://item.jd.com/10339634.html">《模式识别》</a></p>
 <br />
@@ -98,6 +99,11 @@
 <br />
 <br />
 <h2 id="作业情况"><strong>作业情况</strong>：</h2>
+ <br />
+ <font color=red size=3>作业提交邮箱：</font>
+<p><a href="mailto:wzfu@ustc.edu.cn">wzfu@ustc.edu.cn</a><br>
+<a href="mailto:cjwbdw6@mail.ustc.edu.cn">cjwbdw6@mail.ustc.edu.cn</a><br>
+<a href="mailto:xlh1995@mail.ustc.edu.cn">xlh1995@mail.ustc.edu.cn</a></p>
 <p><font color=red size=3>大作业说明：</font><a href="https://aidarikako.github.io/pr/%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB%E5%A4%A7%E4%BD%9C%E4%B8%9A.pdf">点击下载</a><br>
 <br /><br>
 <br /></p>
